@@ -27,7 +27,7 @@ npm i react-basil
 
 ## Usage
 
-```tsx
+```javascript
 import React from "react";
 import { AfterEffectsOutlined } from 'react-basil'
 
@@ -38,7 +38,7 @@ function App {
 
 You can configure icons with inline props:
 
-```tsx
+```javascript
 <AfterEffectsOutlined size={32} color={'#109c12'} />
 ```
 
